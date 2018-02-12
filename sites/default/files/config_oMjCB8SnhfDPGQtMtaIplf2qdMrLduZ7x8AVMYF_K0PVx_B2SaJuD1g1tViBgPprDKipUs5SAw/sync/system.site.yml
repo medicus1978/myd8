@@ -1,0 +1,14 @@
+uuid: e708809b-946b-44f9-82e1-c1dd784c16f3
+name: MyD8Site
+mail: myd8@loc.loc
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
